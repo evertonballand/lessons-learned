@@ -44,9 +44,11 @@ a {
 }
 
 .img-container {
+  margin: auto;
   top: 11.25rem;
   position: relative;
   box-sizing: border-box;
+  margin-bottom: 8rem;
 }
 
 #profile-name {
@@ -69,14 +71,14 @@ h3 {
 
 .licoes_aprendidas {
   display: inline-block;
-  margin-top: 2rem;
+  margin-top: 10rem;
   margin-left: 10rem;
   width: auto;
 }
 
 .licoes_a_aprender {
   display: inline-block;
-  margin-top: 2rem;
+  margin-top: 10rem;
   margin-left: 11rem;
   width: auto;
 }
